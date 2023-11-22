@@ -17,8 +17,11 @@
 
 - Conectar os componentes seguindo o exemplo da simulação do Wokwi
 - Salvar os códigos no computador
-- Conectar 
+- Conectar o cabo do esp32 na maquinta que contiver o codigo
+- Iniciar simulação
+- Logar no Postman e procurar pela entidade healthtag
+- Rodar a simulação e verificar se os dados tão indo para o fiware.
 
 # Link para o Wokwi
 
-Info\nPaciente com bronquite", "Info 2\nPaciente com ansiedade e TDAH", "Info 3\nPaciente com Osteoporose", "Info 4/nPaciente com Diabetes", "Info 5\nPaciente com arteriosclerose"
+https://wokwi.com/projects/382015116544265217
